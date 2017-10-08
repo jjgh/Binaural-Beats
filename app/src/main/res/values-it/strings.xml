@@ -58,8 +58,8 @@
     <string name="menu">Menu</string>
     <string name="stop_program">Stop program</string>
     <string name="toggle_graphics">Graphics on/off</string>
-    <string name="graphics_on">Graphics on</string>
-    <string name="graphics_off">Graphics off, screen will turn off automatically</string>
+    <string name="graphics_on">Grafica on</string>
+    <string name="graphics_off">Grafica off, lo schermo si spegnerà automaticamente</string>
 
     <string name="group_oobe">Out of body experience</string>
 
@@ -69,13 +69,13 @@
     <string name="program_unity">Unity</string>
     <string name="program_morphine">Morphine pain killer</string>
     <string name="program_learning">Study and learning</string>
-    <string name="program_creativity">Creativity</string>
-    <string name="program_schumann_resonance">Schumann Resonance</string>
-    <string name="program_astral_01_relax">Astral projection - Relaxation</string>
-    <string name="program_hallucination">Hallucination</string>
+    <string name="program_creativity">Creatività</string>
+    <string name="program_schumann_resonance">Risonanza di Schumann</string>
+    <string name="program_astral_01_relax">Proiezione astrale - Rilassamento</string>
+    <string name="program_hallucination">Allucinazioni</string>
     <string name="program_sleep_induction">Sleep induction</string>
-    <string name="program_lucid_dreams">Lucid dreams</string>
-    <string name="program_lucid_dreams_2">Lucid dreams - variant</string>
+    <string name="program_lucid_dreams">Sogni lucidi</string>
+    <string name="program_lucid_dreams_2">Sogni lucidi - variante</string>
 
     <string name="program_wakefulrelax">Wakeful Relaxation</string>
     <string name="program_shamanic_rhythm">Shamanic rhythm</string>
@@ -93,10 +93,10 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="drawer_open">open</string>
-    <string name="drawer_close">close</string>
+    <string name="drawer_open">apri</string>
+    <string name="drawer_close">chiudi</string>
     <string name="community">Community</string>
-    <string name="user_guide">User Guide</string>
+    <string name="user_guide">Guida utente</string>
     <string name="user_community">User Community</string>
     <string name="welcome">Welcome</string>
     <string name="tutorial_1_text">Binaural Beats Therapy is a free and open source mobile app!</string>
